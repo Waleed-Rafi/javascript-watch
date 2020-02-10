@@ -21,10 +21,6 @@ li span {
     font-size: 4.5rem;
 }
 
-.jumbotron {
-    margin: unset;
-}
-
 footer {
     position: absolute;
     bottom: 0;
