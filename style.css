@@ -24,3 +24,9 @@ li span {
 .jumbotron {
     margin: unset;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
